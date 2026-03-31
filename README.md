@@ -1,5 +1,6 @@
 # DWiM: DICOM Workflows in MATLAB
 
+![DWiM Banner](https://github.com/Raga-V/DICOM-Processing-Pipeline/blob/main/dicom-matlab-poc/landing.png)
 
 A complete, native MATLAB framework for DICOM image retrieval, processing, anonymization, and machine learning pipeline integration.
 
@@ -124,9 +125,9 @@ This repository currently includes a Python PoC for the core pipeline in the src
 - Extract metadata to CSV
 - Convert image to PNG
 
-This PoC provides reference behavior while the full MATLAB package structure is expanded.
+![PoC Output](https://github.com/Raga-V/DICOM-Processing-Pipeline/blob/main/dicom-matlab-poc/output/image.png)
 
-![DWiM Banner](output/image.png)
+This PoC provides reference behavior while the full MATLAB package structure is expanded.
 
 ## Project Status
 
